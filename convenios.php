@@ -68,6 +68,10 @@
                 border-radius: 7px;
                 padding: 5px; 
                 text-decoration: none;
+                display:flex;
+                justify-content: center;
+                align-items: center;
+                font-size: 1rem;
             }
             </style>
 
