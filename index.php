@@ -3,9 +3,6 @@
 <div class="noise"></div>
     <div class="overlay"></div>
     <div class="terminal">
-<!-- hola-->
-
-
 
  <div id="page-transitions">
   
