@@ -24,77 +24,7 @@
 <div class="decoration decoration-margins"></div>
 <div class="content-fullscreen">
 
-    <style>
-    #item-buttons{
-    width: 100%;
-    margin: 5px;
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    margin:auto;
-    }
-    #item-buttons a{
-        width: 100%;
-        text-decoration: none;
-    }
-    #texto{
-        display: none;
-        
-    }
-    #texto1{
-        display: none;
-        
-    }
-    #texto2{
-        display: none;
-        
-    } 
-    #texto3{
-        display: none;
-        
-    }  
-    #texto4{
-        display: none;
-        
-    } 
-    @media screen and (min-width:500px) {
-        #item-buttons{
-          width: 80%;
 
-        }
-    }
-    @media screen and (min-width:700px) {
-        #item-buttons{
-    width: 80%;
-
-    }
-    #item-buttons a{
-        width: 70%;
-        text-decoration: none;
-    }
-    #texto{
-        display: none;
-        width: 70%;   
-    }
-    #texto1{
-        display: none;
-        width: 70%;  
-    }
-    #texto2{
-        display: none;
-        width: 70%;  
-    } 
-    #texto3{
-        display: none;
-        width: 70%;  
-    }  
-    #texto4{
-        display: none;
-        width: 70%;  
-    }
-    }
-
-    </style>
     
     <div class="collapse">
             <div id="item-buttons">

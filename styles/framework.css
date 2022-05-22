@@ -3256,12 +3256,13 @@ ol ol ol {
 
 .button {
     color: #fff;
-    height: 40px;
+    min-height: 40px;
+    height: auto;
     line-height: 40px;
     text-align: center;
     font-size: 14px;
     display: inline-block;
-    margin: 0 5px 10px;
+    /*margin: 0 5px 10px;*/
     padding: 0 20px;
     border: none;
     box-shadow: 0 5px 16px rgba(0, 0, 0, .16), 0 5px 16px rgba(0, 0, 0, .23)
@@ -3339,8 +3340,9 @@ ol ol ol {
 
 .button-xs {
     font-size: 13px;
-    height: 42px !important;
-    line-height: 40px !important
+    min-height: 42px;
+    height: auto;
+   ' line-height: 40px !important'
 }
 
 .button-xs.button-icon i {

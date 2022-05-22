@@ -71,7 +71,7 @@
 
     <div class="lista__uni">
     
-            <div class="universidades" >
+            <div class="universidades item-button item-button" >
                 <a href="#" class="button-green button button-center button-xs link__uni" id="mostrarUni1">
                 BCO. SCOTIABANK 
                 <img src="imagenes/bancos/logo1.png" class="icono__uni icono__banco">
@@ -85,7 +85,7 @@
                 
         
    
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni2">
             BCO.  COMERCIO   
             <img src="imagenes/bancos/logo2.png" class="icono__uni icono__banco">
@@ -98,7 +98,7 @@
              </p>
 
 
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni3">
             BCO GNB 
             <img src="imagenes/bancos/logo3.png" class="icono__uni icono__banco">
@@ -112,7 +112,7 @@
             </p>
 
 
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni4">
             BCO  CONTINENTAL 
             <img src="imagenes/bancos/logo4.png" class="icono__uni icono__banco">
@@ -125,7 +125,7 @@
             </p>
 
 
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni5">
             BCO. INTERBANK 
             <img src="imagenes/bancos/logo5.png" class="icono__uni icono__banco">

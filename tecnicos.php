@@ -74,41 +74,6 @@
 <div class="decoration decoration-margins"></div>
 <div class="content-fullscreen">
 
-
-<style>
-#item-buttons{
-    width: 100%;
-    margin: 5px;
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    margin:auto;
-}
-#item-buttons a{
-    width: 100%;
-    font-weight: 700;
-    font-size:18px;
-    text-decoration: none;
-    margin-bottom: 20px;
-}
-#texto{
-        display: none;
-        
-    }
-    #texto1{
-        display: none;
-        
-    }
-    #texto2{
-        display: none;
-        
-    } 
-    #texto3{
-        display: none;
-        
-    }  
-</style>
-
 <h3 class="sub__tittle_inst" >SEDES</h3>
 
 

@@ -86,24 +86,6 @@
 <div class="decoration decoration-margins"></div>
 <div class="content-fullscreen">
 
-<style>
-    #item-buttons{
-        width: 100%;
-        margin: 5px;
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-        margin:auto;
-    }
-    #item-buttons a{
-        width: 60%;
-        margin:5px;
-        border-radius: 7px; 
-        text-decoration: none;
-        font-size: 110%;
-    }
-   
-    </style>
 
     <section class="secion_slider">
 

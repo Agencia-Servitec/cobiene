@@ -93,26 +93,6 @@
 <div class="decoration decoration-margins"></div>
 <div class="content-fullscreen">
 
-
-<style>
-#item-buttons{
-    width: 100%;
-    margin: 5px;
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    margin:auto;
-}
-#item-buttons a{
-    width: 40%;
-    margin:5px;
-    border-radius: 7px;
-    padding: 0px; 
-    text-decoration: none;
-    font-size: 80%;
-}
-</style>
-
 <p id="item-buttons">
 <a rel="nofollow" href="https://drive.google.com/file/d/1BsxIrd0JsKyVUo1eDjaH3_YRaZV85eO7/view?usp=sharing" class="button button-green button-center button-xs">ACTIVIDAD Y MONTEPIO</a>
 <a rel="nofollow" href="https://drive.google.com/file/d/1epM0isppcDkq4eEoqR6nWj3Kc4cqgyXE/view?usp=sharing" class="button button-green button-center button-xs">CAJA PENSIÓN</a>

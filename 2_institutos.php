@@ -34,8 +34,8 @@
 
     <div class="lista__uni">
     
-            <div class="universidades" >
-                <a href="#" class="button-green button button-center button-xs link__uni" id="mostrarUni1">
+            <div class="universidades item-button" >
+                <a href="#" class="button-green button  button-center button-xs link__uni" id="mostrarUni1">
                 CENTRO DE ALTOS ESTUDIOS DE LA MODA 
                 <img src="imagenes/Institutos/logo1.png" class="icono__uni icono__">
                 </a>
@@ -51,7 +51,7 @@
                 
         
    
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni2">
             CEPEA
             <img src="imagenes/Institutos/logo2.png" class="icono__uni icono__">
@@ -67,7 +67,7 @@
              </p>
 
 
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni3">
             CEPEBAN   
             <img src="imagenes/Institutos/logo3.png" class="icono__uni icono__">
@@ -83,7 +83,7 @@
             </p>
 
 
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni4">
             CESCA 
             <img src="imagenes/Institutos/logo4.png" class="icono__uni icono__">
@@ -99,7 +99,7 @@
             </p>
 
 
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni5">
             CETPRO "GAMOR" 
             <img src="imagenes/Institutos/logo5.png" class="icono__uni icono__">
@@ -114,7 +114,7 @@
                 </a>
             </p>
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni6">
             CEVATUR PERU 
             <img src="imagenes/Institutos/logo6.png" class="icono__uni icono__">
@@ -130,7 +130,7 @@
             </p>
 
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni7">
             CORPORACIÓN EDUCATIVA SAN VICENTE 
             <img src="imagenes/Institutos/logo7.png" class="icono__uni icono__">
@@ -147,7 +147,7 @@
             </p>
 
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni8">
             D`GALLIA 
             <img src="imagenes/Institutos/logo8.png" class="icono__uni icono__">
@@ -163,7 +163,7 @@
             </p>            
  
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni9">
             DANIEL A. CARRIÓN 
             <img src="imagenes/Institutos/logo9.png" class="icono__uni icono__">
@@ -180,7 +180,7 @@
 
 
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni10">
             INST. DESARROLLO GERENCIAL 
             <img src="imagenes/Institutos/logo10.png" class="icono__uni icono__">
@@ -196,7 +196,7 @@
             </p>
 
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni11">
             NST. DESARROLLO PROFESIONAL Y TÉCNICO 
             <img src="imagenes/Institutos/logo11.png" class="icono__uni icono__">
@@ -212,7 +212,7 @@
             </p>
 
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni12">
             ESCUELA INTERNACIONAL DE GERENCIA
 
@@ -229,7 +229,7 @@
             </p>
 
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni13">
             AKRON 
             <img src="imagenes/Institutos/logo13.png" class="icono__uni icono__">
@@ -245,7 +245,7 @@
             </p>
 
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni14">
             EUROIDIOMAS 
             <img src="imagenes/Institutos/logo14.png" class="icono__uni icono__">
@@ -261,7 +261,7 @@
             </p>
 
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni15">
             HEADWAY COLLEGE 
             <img src="imagenes/Institutos/logo15.png" class="icono__uni icono__">
@@ -278,7 +278,7 @@
 
 
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni16">
             INTECI 
             <img src="imagenes/Institutos/logo16.png" class="icono__uni icono__">
@@ -295,7 +295,7 @@
 
 
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni17">
             LECTURA VELOZ (ILVEM) 
             <img src="imagenes/Institutos/logo17.png" class="icono__uni icono__">
@@ -312,7 +312,7 @@
 
 
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni18">
             LATINO  
             <img src="imagenes/Institutos/logo18.png" class="icono__uni icono__">
@@ -329,7 +329,7 @@
 
 
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni19">
             LIBERTADOR 
             <img src="imagenes/Institutos/logo19.png" class="icono__uni icono__">
@@ -346,7 +346,7 @@
 
 
        <!---->
-       <div class="universidades" >
+       <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni20">
             INIDHE 
             <img src="imagenes/Institutos/logo20.png" class="icono__uni icono__">
@@ -363,7 +363,7 @@
 
 
        <!---->
-       <div class="universidades" >
+       <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni21">
             PRIVATEACHER 
             <img src="imagenes/Institutos/logo21.png" class="icono__uni icono__">
@@ -381,7 +381,7 @@
 
  
        <!---->
-       <div class="universidades" >
+       <div class="universidades item-button" >
         <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni22">
         SAN IGNACIO DE LOYOLA 
         <img src="imagenes/Institutos/logo22.png" class="icono__uni icono__">
@@ -398,7 +398,7 @@
 
 
    <!---->
-   <div class="universidades" >
+   <div class="universidades item-button" >
         <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni23">
         ICPNA 
         <img src="imagenes/Institutos/logo23.png" class="icono__uni icono__">
@@ -415,7 +415,7 @@
 
 
    <!---->
-   <div class="universidades" >
+   <div class="universidades item-button" >
         <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni24">
         BRITANICO 
         <img src="imagenes/Institutos/logo24.png" class="icono__uni icono__">
@@ -432,7 +432,7 @@
         </p>
  
  <!---->
-       <div class="universidades" >
+       <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni25">
             INST. DE FORMACION EMPRESARIAL 
             <img src="imagenes/Institutos/logo25.png" class="icono__uni icono__">
@@ -449,7 +449,7 @@
 
 
        <!---->
-       <div class="universidades" >
+       <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni26">
             INST. MARKAYACHAY 
             <img src="imagenes/Institutos/markaya.png" class="icono__uni icono__">
@@ -465,7 +465,7 @@
             </p>
 
        <!---->
-       <div class="universidades" >
+       <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni27">
             ESCUELA INTERNACIONAL DE GRADUADOS
             <img src="imagenes/Institutos/eigra.png" class="icono__uni icono__">
@@ -481,7 +481,7 @@
             </p>
         
        <!---->
-       <div class="universidades" >
+       <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni28">
             INSTITUTO GUIDE 
             <img src="imagenes/Institutos/guide.jpg" class="icono__uni icono__">
@@ -497,7 +497,7 @@
             </p>
 
        <!---->
-       <div class="universidades" >
+       <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni29">
             ALIANZA FRANCESA 
             <img src="imagenes/Institutos/logo27.png" class="icono__uni icono__">
@@ -513,7 +513,7 @@
             </p>
 
        <!---->
-       <div class="universidades" >
+       <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni30">
             SISE 
             <img src="imagenes/Institutos/logo28.png" class="icono__uni icono__">

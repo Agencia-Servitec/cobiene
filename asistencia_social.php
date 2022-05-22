@@ -32,35 +32,6 @@
         <div class="content-fullscreen">
 
 
-            <style>
-            .concepto{
-            color: black;
-            line-height: 15px;
-            margin-bottom: 5px;
-            font-size: 12px;
-            margin-top: 10px;
-            margin-left:20px;
-            margin-right: 20px;
-            text-align: justify;
-            }
-
-            #item-buttons{
-                width: 100%;
-                margin: 5px;
-                display: flex;
-                justify-content: center;
-                flex-wrap: wrap;
-                margin:auto;
-            }
-            #item-buttons a{
-                width: 460px;
-                margin:5px;
-                border-radius: 7px;
-                padding: 5px; 
-                text-decoration: none;
-            }
-            </style>
-
             <p id="item-buttons">
             <a href="apoyo_economico.php" class="button button-green button-center button-xs">APOYO ECONOMICO</a>
             <a href="convenios.php" class="button button-green button-center button-xs">CONVENIOS</a>
