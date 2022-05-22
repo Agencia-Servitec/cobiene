@@ -29,27 +29,6 @@
     <div class="decoration decoration-margins"></div>
         <div class="content-fullscreen">
 
-
-            <style>
-   
-
-            #item-buttons{
-                width: 100%;
-                margin: 5px;
-                display: flex;
-                justify-content: center;
-                flex-wrap: wrap;
-                margin:auto;
-            }
-            #item-buttons a{
-                width: 460px;
-                margin:5px;
-                border-radius: 7px;
-                padding: 5px; 
-                text-decoration: none;
-            }
-            </style>
-
             <p id="item-buttons">
             <a href="institutos_lima.php" class="button button-green button-center button-xs">INSTITUCIONES DE LIMA</a>
             <a href="institucion_provincia.php" class="button button-green button-center button-xs">INSTITUCIONES DE PROVINCIA</a>

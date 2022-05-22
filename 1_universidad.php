@@ -33,9 +33,9 @@
 
 
 
-    <div class="lista__uni">
+    <div class="lista__uni" >
     
-            <div class="universidades" >
+            <div class="universidades item-button item-button" >
                 <a href="#" class="button-green button button-center button-xs link__uni" id="mostrarUni1">
                 AGRARIA LA MOLINA 
                 <img src="imagenes/Universidades/logo1.png" class="icono__uni icono__">
@@ -54,7 +54,7 @@
                 
         
    
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni2">
             CIENTÍFICA DEL SUR 
             <img src="imagenes/Universidades/logo2.png" class="icono__uni icono__">
@@ -73,7 +73,7 @@
              </p>
 
 
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni3">
             CATÓLICA DEL PERÚ 
             <img src="imagenes/Universidades/logo3.png" class="icono__uni icono__">
@@ -90,7 +90,7 @@
             </p>
 
 
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni4">
             CESAR VALLEJO  
             <img src="imagenes/Universidades/logo4.png" class="icono__uni icono__">
@@ -107,7 +107,7 @@
             </p>
 
 
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni5">
             ESAN 
             <img src="imagenes/Universidades/logo5.png" class="icono__uni icono__">
@@ -122,7 +122,7 @@
                 </a>
             </p>
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni6">
             FEDERICO VILLARREAL 
             <img src="imagenes/Universidades/federico.jpg" class="icono__uni icono__">
@@ -138,7 +138,7 @@
             </p>
 
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni7">
             JAIME BAUSATE Y MESA 
             <img src="imagenes/Universidades/logo7.png" class="icono__uni icono__">
@@ -154,7 +154,7 @@
             </p>
 
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni8">
             MARCELINO CHAMPAGNAT 
             <img src="imagenes/Universidades/logo8.png" class="icono__uni icono__">
@@ -170,7 +170,7 @@
             </p>            
  
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni9">
             NORBERT WIENER 
             <img src="imagenes/Universidades/logo9.png" class="icono__uni icono__">
@@ -187,7 +187,7 @@
 
 
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni10">
             DEL PACIFICO 
             <img src="imagenes/Universidades/logo10.png" class="icono__uni icono__">
@@ -203,7 +203,7 @@
             </p>
 
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni11">
             RICARDO PALMA 
             <img src="imagenes/Universidades/logo11.png" class="icono__uni icono__">
@@ -219,7 +219,7 @@
             </p>
 
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni12">
             SAN IGNACIO DE LOYOLA USIL 
             <img src="imagenes/Universidades/logo12.png" class="icono__uni icono__">
@@ -235,7 +235,7 @@
             </p>
 
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni13">
             SAN JUAN BAUTISTA 
             <img src="imagenes/Universidades/logo13.png" class="icono__uni icono__">
@@ -251,7 +251,7 @@
             </p>
 
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni14">
             SAN MARTÍN DE PORRES 
             <img src="imagenes/Universidades/logo14.png" class="icono__uni icono__">
@@ -267,7 +267,7 @@
             </p>
 
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni15">
             SAN MARCOS FACULTAD C.C. ECONOMICAS 
             <img src="imagenes/Universidades/logo15.png" class="icono__uni icono__">
@@ -284,7 +284,7 @@
 
 
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni16">
             SEÑOR DE SIPAN 
             <img src="imagenes/Universidades/logo16.png" class="icono__uni icono__">
@@ -301,7 +301,7 @@
 
 
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni17">
             UTP
             <img src="imagenes/Universidades/logo17.png" class="icono__uni icono__">
@@ -318,7 +318,7 @@
 
 
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni18">
             CATOLICA SEDE SAPIENTIAE 
             <img src="imagenes/Universidades/logo18.png" class="icono__uni icono__">
@@ -335,7 +335,7 @@
 
 
         <!---->
-        <div class="universidades" >
+        <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni19">
             UNIFE SAGRADO CORAZON 
             <img src="imagenes/Universidades/logo19.png" class="icono__uni icono__">
@@ -352,7 +352,7 @@
 
 
        <!---->
-       <div class="universidades" >
+       <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni20">
             UNIV. PRIVADA DEL NORTE 
             <img src="imagenes/Universidades/norte.png" class="icono__uni icono__">
@@ -369,7 +369,7 @@
 
 
        <!---->
-       <div class="universidades" >
+       <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni21">
             UNIV. PERUANA DE CIENCIAS APLICADAS UPC 
             <img src="imagenes/Universidades/logo21.png" class="icono__uni icono__">

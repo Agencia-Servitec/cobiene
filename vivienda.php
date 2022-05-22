@@ -94,28 +94,7 @@
 <div class="content-fullscreen">
 
 
-    <style>
-        #item-buttons_{
-        width: 100%;
-        margin: 5px;
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-        margin:auto;
-        }
-        #item-buttons_ a{
-            width: 460px;
-        
-            padding: 5px; 
-            text-decoration: none;
-        }
-   
-        #texto{
-                display: none;
-                
-            }
 
-    </style>
 
     <div class="collapse">
             <div id="item-buttons_">
