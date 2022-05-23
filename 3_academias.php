@@ -74,7 +74,7 @@
             <div class="universidades item-button" >
                 <a href="#" class="button-green button button-center button-xs link__uni" id="mostrarUni1">
                 PITAGORAS
-                <img src="imagenes/academias/logo1.png" class="icono__uni icono__">
+                <img src="imagenes/academias/logo1.png" class="icono__uni icono__" style="width:3rem">
                 </a>
             </div>
                 <p class="relleno__convenios" id="text1" >
@@ -91,7 +91,7 @@
         <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni2">
             TRILCE
-            <img src="imagenes/academias/logo2.png" class="icono__uni icono__">
+            <img src="imagenes/academias/logo2.png" class="icono__uni icono__" style="width:3rem">
             </a>
         </div>
              <p class="relleno__convenios" id="text2">

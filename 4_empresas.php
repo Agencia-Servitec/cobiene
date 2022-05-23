@@ -74,7 +74,7 @@
             <div class="universidades item-button" >
                 <a href="#" class="button-green button button-center button-xs link__uni" id="mostrarUni1">
                 APEPLAC 
-                <img src="imagenes/empresas/logo1.png" class="icono__uni icono__">
+                <img src="imagenes/empresas/logo1.png" class="icono__uni icono__" style="width:3rem">
                 </a>
             </div>
                 <p class="relleno__convenios" id="text1" >
@@ -87,7 +87,7 @@
         <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni2">
             BLUFSTEIN       
-            <img src="imagenes/empresas/logo2.png" class="icono__uni icono__">
+            <img src="imagenes/empresas/logo2.png" class="icono__uni icono__" style="width:3rem">
             </a>
         </div>
              <p class="relleno__convenios" id="text2">
@@ -99,7 +99,7 @@
         <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni3">
             INPPARES 
-            <img src="imagenes/empresas/logo3.png" class="icono__uni icono__">
+            <img src="imagenes/empresas/logo3.png" class="icono__uni icono__" style="width:3rem">
             </a>
         </div>
             <p class="relleno__convenios" id="text3">
@@ -112,7 +112,7 @@
         <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni4">
             UNIDENT 
-            <img src="imagenes/empresas/logo4.png" class="icono__uni icono__">
+            <img src="imagenes/empresas/logo4.png" class="icono__uni icono__" style="width:3rem">
             </a>
         </div>
             <p class="relleno__convenios" id="text4">
@@ -136,7 +136,7 @@
         <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni6">
             MEDIFON 
-            <img src="imagenes/empresas/logo6.png" class="icono__uni icono__">
+            <img src="imagenes/empresas/logo6.png" class="icono__uni icono__" style="width:3rem">
             </a>
         </div>
             <p class="relleno__convenios" id="text6">
@@ -149,7 +149,7 @@
         <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni7">
             SEGUROS RIMAC PROTECCION FAMILIAR 
-            <img src="imagenes/empresas/logo7.png" class="icono__uni icono__">
+            <img src="imagenes/empresas/logo7.png" class="icono__uni icono__" style="width:3rem">
             </a>
         </div>
             <p class="relleno__convenios" id="text7">
@@ -162,7 +162,7 @@
         <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni8">
             SEGUROS RIMAC VEPARMIL 
-            <img src="imagenes/empresas/logo8.png" class="icono__uni icono__">
+            <img src="imagenes/empresas/logo8.png" class="icono__uni icono__" style="width:3rem">
             </a>
         </div>
             <p class="relleno__convenios" id="text8">
@@ -175,7 +175,7 @@
         <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni9">
             TRANSPORTES “OLTURSA
-            <img src="imagenes/empresas/logo9.png" class="icono__uni icono__">
+            <img src="imagenes/empresas/logo9.png" class="icono__uni icono__" style="width:3rem">
             </a>
         </div>
             <p class="relleno__convenios" id="text9">
@@ -189,7 +189,7 @@
         <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni10">
             LAB. “BIOLINKS” 
-            <img src="imagenes/empresas/logo10.png" class="icono__uni icono__">
+            <img src="imagenes/empresas/logo10.png" class="icono__uni icono__" style="width:3rem">
             </a>
         </div>
             <p class="relleno__convenios" id="text10">
@@ -202,7 +202,7 @@
         <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni11">
             QUIROVIDA REHABILITACIÓN INTEGRAL S.A.C 
-            <img src="imagenes/empresas/logo11.png" class="icono__uni icono__">
+            <img src="imagenes/empresas/logo11.png" class="icono__uni icono__" style="width:3rem">
             </a>
         </div>
             <p class="relleno__convenios" id="text11">
@@ -214,7 +214,7 @@
         <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni12">
            CEREMA
-            <img src="imagenes/empresas/logo12.png" class="icono__uni icono__">
+            <img src="imagenes/empresas/logo12.png" class="icono__uni icono__" style="width:3rem">
             </a>
         </div>
             <p class="relleno__convenios" id="text12">
@@ -226,7 +226,7 @@
         <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni13">
             TRANSPORTES “CRUZ DEL SUR
-            <img src="imagenes/empresas/logo13.png" class="icono__uni icono__">
+            <img src="imagenes/empresas/logo13.png" class="icono__uni icono__" style="width:3rem">
             </a>
         </div>
             <p class="relleno__convenios" id="text13">
@@ -238,7 +238,7 @@
         <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni14">
             POSITIVA VIDA FUTURO 
-            <img src="imagenes/empresas/logo14.png" class="icono__uni icono__">    
+            <img src="imagenes/empresas/logo14.png" class="icono__uni icono__" style="width:3rem">
         </a>
         </div>
             <p class="relleno__convenios" id="text14">
@@ -250,7 +250,7 @@
         <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni15">
             POSITIVA SALUD EMPRESA 
-            <img src="imagenes/empresas/logo15.png" class="icono__uni icono__">
+            <img src="imagenes/empresas/logo15.png" class="icono__uni icono__" style="width:3rem">
             </a>
         </div>
             <p class="relleno__convenios" id="text15">
@@ -263,7 +263,7 @@
         <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni16">
             POSITIVA VEHICULAR TODO RIESGO
-            <img src="imagenes/empresas/logo16.png" class="icono__uni icono__"> 
+            <img src="imagenes/empresas/logo16.png" class="icono__uni icono__" style="width:3rem">
             </a>
         </div>
             <p class="relleno__convenios" id="text16">
@@ -276,7 +276,7 @@
         <div class="universidades item-button" >
             <a href="#" class="link__uni button-green button button-center button-xs" id="mostrarUni17">
             ROTARY INTERNATIONAL D4455-PERU 
-            <img src="imagenes/empresas/logo17.png" class="icono__uni icono__">
+            <img src="imagenes/empresas/logo17.png" class="icono__uni icono__" style="width:3rem">
             </a>
         </div>
             <p class="relleno__convenios" id="text17">
