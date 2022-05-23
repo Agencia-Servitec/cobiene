@@ -182,7 +182,6 @@
     width: 460px;
     min-height: 3.7rem;
     border-radius: 7px;
-    padding: .5rem auto;
     text-decoration: none;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
