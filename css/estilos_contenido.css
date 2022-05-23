@@ -199,13 +199,14 @@
     order: -1;
     margin: 0.5rem;
     width: 3rem;
-    height: 3rem;
+    height: auto;
     object-fit: contain;
 }
 
 .icono__banco {
-    margin-top: 8px;
-    width: 20%;
+    width: 4rem;
+    /*margin-top: 8px;
+    width: 20%;*/
 }
 
 /*Vivienda*/
