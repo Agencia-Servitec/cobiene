@@ -97,6 +97,7 @@
 
 
     <div class="collapse">
+    //cambio de id item-buttons_
             <div id="item-buttons">
 
                 <a href="#" class="button button-green button-center button-xs" id="buttonLED" onclick="mostrarTexto()">REQUISITOS PARA SER USUARIOS:</a> 
