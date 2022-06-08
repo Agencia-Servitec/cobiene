@@ -13,12 +13,7 @@
 </div>
 <div id="page-content">
 <div id="page-content-scroll">
-
-
-<!-- Mi primer pull request-->
-<!-- Mi primer pull request christian-->
-
-
+    
 <br>
 <br>
 <br>
